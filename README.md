@@ -2,6 +2,13 @@
     <img src="assets/intro_header.gif" alt="Alt text" width="300" height="auto" >
 </div>
 
+<div>
+    <ul>
+        <li>Pursing Bachelors of Computer Science @ <a href="https://catalog.tamu.edu/undergraduate/engineering/computer-science/bs/">Texas A&M University</a></li>
+        <li>Working on personal projects in web design/applications and Machine Learning</li>
+    </ul>
+
+</div>
 
 
 <!--
