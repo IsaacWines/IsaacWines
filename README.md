@@ -7,7 +7,7 @@
 <div>
     <p align="center">
         <a href = "https://wines101.vercel.app/" target = "_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Website-wines101.vercel.app-red"></a>
-        <a href="https://wines101.vercel.app/" target = "_blank"><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>
+        <a href="https://wines101.vercel.app/Resume.pdf" target = "_blank"><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>
         <a href = "https://www.linkedin.com/in/isaac-wines-754728335/"target = "_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
     </p>
 </div>
