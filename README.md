@@ -1,5 +1,7 @@
 <div>
-    <img src="assets/intro_header.gif" alt="Alt text" >
+    <p align="center">
+        <img src="assets/intro_header.gif" alt="Alt text" width="500" height="auto">
+    </p>
 </div>
 
 <div>
