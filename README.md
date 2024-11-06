@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <img src="assets/intro_header.gif" alt="Alt text" width="300" height="auto" >
+<div>
+    <img src="assets/intro_header.gif" alt="Alt text" >
 </div>
 
 <div>
