@@ -19,8 +19,8 @@
 <div>
     <p align="left">
         <ul>
-            <li>Pursuing Bachelors of Computer Science @ <a href="https://catalog.tamu.edu/undergraduate/engineering/computer-science/bs/">Texas A&M University</a></li>
-            <li>Working on personal projects in web design/applications and Machine Learning</li>
+            <li>Pursuing Bachelors of Electrical Engineering @ <a href="https://catalog.tamu.edu/undergraduate/engineering/electrical-computer/electrical-bs/">Texas A&M University</a></li>
+            <li>Working on personal projects in electrical physics simulations and Machine Learning</li>
             <li>Previous experience in a Software Engineer Internship through <a href="https://www.mitre.org/">MITRE</a></li>
         </ul>
     </p>
